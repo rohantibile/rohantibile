@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rohantibile.visitor-badge)
 <a href="www.linkedin.com/in/rohan-tibile1997/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a>  <!--<a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>  --><a href="https://mail.google.com/mail/?view=cm&fs=1&to=tibilerohan3@gmail.com.com&su=SUBJECT&body=BODY&bcc=" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"></a>  <a href="https://www.instagram.com/rohantibile/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-<img alt="banner" src="![Image](https://github.com/user-attachments/assets/536d57c1-396d-44fd-aace-f7974d0463b8)" />
+<img alt="banner" src="![Banner](https://github.com/user-attachments/assets/1d7e5d38-cc5d-4586-b68a-43cbc49975d7)"/>
 
 ## Hey there, Welcome to my profile
 
