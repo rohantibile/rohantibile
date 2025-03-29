@@ -5,8 +5,10 @@
 
 ## Hey there, Welcome to my profile
 
-### About Me
-- Currently employed as a Software Developer, specializing in the design, development, and maintenance of software applications.
+### Profile
+- Software Engineer (Full Stack Developer) with 3 years of experience in designing and developing web applications.
+- Skilled in front-end technologies and back-end frameworks with expertise in databases.
+- Strong problem-solving abilities with perform well in a team. Passionate about coding and ready to learn any new Technology.
 - Master's in Computer Applications
 
 
