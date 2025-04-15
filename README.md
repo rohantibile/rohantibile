@@ -69,12 +69,12 @@
       </a>
       <br>Apache Tomcat
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./LogoSvg/AzureDevops.svg" width="48" height="48" alt="AzureDevops" />
       </a>
       <br>AzureDevops
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td align="center" width="96">
@@ -119,12 +119,12 @@
       </a>
       <br>Postman
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./LogoSvg/Jenkins.svg" width="48" height="48" alt="Jenkins" />
       </a>
       <br>Jenkins
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./LogoSvg/Jira.svg" width="48" height="48" alt="Jira" />
