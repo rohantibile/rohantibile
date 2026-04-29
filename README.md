@@ -5,17 +5,39 @@
 
 ## Hey there, Welcome to my profile
 
-### Profile
-- Software Engineer (Full Stack Developer) with 3 years of experience in designing and developing web applications.
-- Skilled in front-end technologies and back-end frameworks with expertise in databases.
-- Strong problem-solving abilities with perform well in a team. Passionate about coding and ready to learn any new Technology.
-- Master's in Computer Applications
+💻 Full Stack Developer | Java | Spring Boot | Microservices | Node.js  
+🚀 Building scalable backend systems & exploring Generative AI integration  
 
+---
 
-### Things I am passionate about 🎯
-- ***Web Development***
-- ***Full Stack development***
+## 🧑‍💻 About Me
+- 4+ years of experience in Full Stack Development  
+- Expertise in Java, Spring Boot, REST APIs, Microservices  
+- Experience in insurance domain (policy systems, onboarding workflows)  
+- Currently learning **Generative AI with Java & Spring**  
 
+---
+
+## 🔧 Tech Stack
+- **Backend:** Java, Spring Boot, Node.js  
+- **Frontend:** AngularJS, HTML, CSS  
+- **Database:** PostgreSQL, Oracle, SQL Server  
+- **Tools:** Docker, Jenkins, Git, Grafana  
+- **Cloud/Data:** Azure Databricks  
+
+---
+
+## 🚀 Projects
+
+### 🔹 AI Code Review Assistant
+- AI-powered backend system for automated code review  
+- Built with Spring Boot + Gemini API  
+- Features: Bug detection, improvements, best practices suggestions  
+- Tech: Java, Spring Boot, PostgreSQL  
+
+https://github.com/rohantibile/ai-code-review-assistant
+
+---
 
 ### My Tech Toolbox 🧰
 
