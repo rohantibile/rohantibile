@@ -27,18 +27,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 🔹 AI Code Review Assistant
-- AI-powered backend system for automated code review  
-- Built with Spring Boot + Gemini API  
-- Features: Bug detection, improvements, best practices suggestions  
-- Tech: Java, Spring Boot, PostgreSQL  
-
-https://github.com/rohantibile/ai-code-review-assistant
-
----
-
 ### My Tech Toolbox 🧰
 
 <table>
