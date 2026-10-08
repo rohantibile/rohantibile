@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO-URL"><b>Portfolio ↗</b></a> &nbsp;·&nbsp;
+  <a href="https://rohantibile.github.io"><b>Portfolio ↗</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/rohantibile">LinkedIn ↗</a> &nbsp;·&nbsp;
   <a href="mailto:tibilerohan3@gmail.com">Email ↗</a>
 </p>
@@ -22,8 +22,8 @@
   "name": "Rohan Tibile",
   "role": "Java Developer",
   "experience_years": 4,
-  "domain": "High-transaction insurance-tech",
-  "location": "Pune, India",
+  "domain": "High-transaction Insurance-tech",
+  "location": "Pune, Maharashtra, India",
   "availability": "IMMEDIATE_JOINER",
   "currently_learning": ["Generative AI for Java & Spring"]
 }
@@ -42,9 +42,8 @@ Client work at Streebo Pvt Ltd for Tata AIA Life Insurance. The source code is p
 
 | Route | What it is | Results |
 |---|---|---|
-| `GET /api/projects/agent-compensation` | 3 Kafka-based microservices across 12–15 topics on Java 17 and Spring Boot, running agent compensation | 40% faster cross-database sync · hours down to 5–10 min · 30% faster incident triage |
-| `GET /api/projects/onboarding-kyc` | Customer and agent onboarding: AngularJS interface, multi-step validation, KYC auto-population | 50% fewer onboarding drop-offs · over half of each profile auto-filled |
-| `POST /api/projects/premium-engines` | Premium and sum-assured calculation engines on Spring Data JPA and Hibernate | ~900 ms to ~600 ms policy workflows · 60+ JUnit 5 and Mockito tests |
+| `GET /api/projects/agent-master` | · 3 Kafka-based microservices across 12–15 topics<br>· Java 17, Spring Boot, Apache kafka, event-driven microservices<br>· running agent compensation | · 40% faster cross-database sync<br>· hours down to 5–10 min<br>· 30% faster incident triage |
+| `GET /api/projects/sellonline` |· TATA AIA Life Insurance: Web Development<br>· HTML, CSS and AngularJS interface<br>· Java 17, Spring Boot, microservices<br>· multi-step validation<br>· KYC auto-population<br>· Premium and sum-assured calculation engines on Spring Data JPA and Hibernat | · 50% fewer onboarding drop-offs<br>· over half of each profile auto-filled<br>· ~900 ms to ~600 ms policy workflows<br>· 60+ JUnit 5 and Mockito tests |
 
 <br>
 
@@ -59,7 +58,7 @@ public class Rohan implements Developer {
 
   @Autowired Language[]      languages  = { "Java 8 / 17", "JavaScript" };
   @Autowired Framework[]     frameworks = { "Spring Boot 3", "Spring Data JPA", "Hibernate" };
-  @Autowired Messaging       bus        = new ApacheKafka();
+  @Autowired Messaging[]     bus        = { "ApacheKafka" };
   @Autowired Database[]      data       = { "PostgreSQL", "MySQL", "Azure Databricks" };
   @Autowired Observability[] watch      = { "Grafana", "Loki" };
   @Autowired Tool[]          tools      = { "Docker", "Jenkins", "Azure DevOps", "JUnit 5", "Mockito" };
@@ -82,8 +81,8 @@ public class Rohan implements Developer {
   <img src="assets/timeline-light.svg" alt="Timeline: B.Sc 2018, MCA 2022, Associate Technical Consultant Jun 2022 to Jan 2025, Technical Consultant Jan 2025 to Jun 2026, Customer Excellence Award 2023, GenAI for Java and Spring certification Jul 2026." width="100%">
 </picture>
 
-- **Technical Consultant (Full Stack Developer)**, Streebo · Jan 2025 – Jun 2026
-- **Associate Technical Consultant (Full Stack Developer)**, Streebo · Jun 2022 – Jan 2025
+- **Technical Consultant (Full Stack Developer)**, Streebo Pvt Ltd · Jan 2025 – Jun 2026
+- **Associate Technical Consultant (Full Stack Developer)**, Streebo Pvt Lts · Jun 2022 – Jan 2025
 - **MCA**, JSPM Tech Campus, SPPU · 2022 &nbsp;|&nbsp; **B.Sc Computer Science**, MIT ACSC Alandi, SPPU · 2018
 - **Generative AI for Java & Spring Developers**, IBM & SkillUp (Coursera) · Jul 2026
 - **Customer Excellence Award** · 2023
@@ -98,7 +97,7 @@ public class Rohan implements Developer {
 </picture>
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO-URL"><b>Portfolio ↗</b></a> &nbsp;·&nbsp;
+  <a href="https://rohantibile.github.io"><b>Portfolio ↗</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/rohantibile">LinkedIn ↗</a> &nbsp;·&nbsp;
   <a href="mailto:tibilerohan3@gmail.com">tibilerohan3@gmail.com</a>
 </p>
