@@ -56,9 +56,9 @@ public class Rohan implements Developer {
   private final int experienceYears = 4;
   private final String domain = "High-transaction insurance-tech";
 
-  @Autowired Language[]      languages  = { "Java 8 / 17", "JavaScript" };
+  @Autowired Language[]      languages  = { "Java 17", "Java 8", "JavaScript" };
   @Autowired Framework[]     frameworks = { "Spring Boot 3", "Spring Data JPA", "Hibernate" };
-  @Autowired Messaging[]     bus        = { "ApacheKafka" };
+  @Autowired Messaging[]     bus        = { "Apache Kafka" };
   @Autowired Database[]      data       = { "PostgreSQL", "MySQL", "Azure Databricks" };
   @Autowired Observability[] watch      = { "Grafana", "Loki" };
   @Autowired Tool[]          tools      = { "Docker", "Jenkins", "Azure DevOps", "JUnit 5", "Mockito" };
